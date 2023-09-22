@@ -1,0 +1,92 @@
+.command-box{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.header{
+    flex: 1;
+    margin-right: 20px;
+    text-align: left;
+}
+
+.buttons-container{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 20px;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.container-member{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 20px;
+}
+
+.assettype{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 20px;
+}
+
+.input-group{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+
+}
+
+  .input-group__label{
+    background: white;
+    padding: 0.05em;
+    margin-bottom: 0.5em;
+    font-size: 0.9em;
+    letter-spacing: 0.1em;
+    color: #0A66C2;
+  }
+
+  .input-group__label_kiymet{
+    background: white;
+    padding: 0.05em;
+    margin-bottom: 0px !important ;
+    font-size: 0.9em;
+    letter-spacing: 0.1em;
+    color: #0A66C2;
+  }
+
+  .input-group__input{
+    color:#333;
+    font-size: 1.25rem;
+    line-height: 1;
+    outline: none;
+    border: 0.1 em solid;
+    border-color: #06f;
+    border-radius: 1.8em;
+    background-color: white;
+    transition: background-position 0.8s ease-out;
+}
+
+.unvan{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  margin-top: 20px;
+  
+}
+
+.teminat_H {
+    margin : 8px 8px
+}
+
+
+

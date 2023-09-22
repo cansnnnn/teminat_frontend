@@ -1,0 +1,44 @@
+.teminat_H{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  
+    margin-top: 20px;
+}
+
+.input-group{
+    max-width: 20em;
+    display: flex;
+    flex-direction: column;
+    z-index: 2;
+    margin-right: 20px;
+
+  }
+
+  .input-group__label{
+    background: white;
+    padding: 0.05em;
+    margin-bottom: 0.5em;
+    font-size: 0.9em;
+    letter-spacing: 0.1em;
+    color: #0A66C2;
+  }
+
+  .input-group__input{
+    color:#333;
+    font-size: 1.25rem;
+    line-height: 1;
+    outline: none;
+    border: 0.1 em solid;
+    border-color: #06f;
+    border-radius: 1.8em;
+    background-color: white;
+    transition: background-position 0.8s ease-out;
+}
+
+.kiymet_bilgisi{
+  display: flex;
+  flex-direction: row;
+
+  margin-top: 20px;
+}

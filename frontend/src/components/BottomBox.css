@@ -1,0 +1,10 @@
+.input-group{
+    display: flex;
+    margin-right: 50px;
+}
+
+.container-member {
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+}
